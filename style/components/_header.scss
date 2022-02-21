@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+header{
+    width: 100%;
+    height: 5%;
+    
+    .outerContainer{
+        
+    .container
+    {
+        position: fixed;
+    
+        background-color: aqua;
+        width: 100%;
+        height: 71px;
+    .logoBox
+    {
+        @media screen and (max-width : 992px)
+        {
+            width: 253px;
+        }
+        width: 25%;
+        height: 72px;
+        float: left;
+        
+        .logoImage
+        {
+            width: 72px;
+            height: 70px;
+            padding: 10px;
+            float: left;
+        }
+        .companyName
+        {
+            @media screen and (max-width : 992px)
+        {
+            font-size: 15px;
+            padding-top: 31px;
+        }
+            font-family: 'Oswald', sans-serif;
+            font-size: 16px;
+            padding: 28px;
+            float: left;
+            
+            
+        }
+        
+    }
+        
+
+    nav{
+        @media screen and (min-width : 992px) {
+            display: block;
+            position: relative;
+            left: 36%;
+        }
+        display: none;
+        float: left;
+        
+        
+    }
+    nav ul li
+    {
+        float: left;
+        margin: 26px
+    }
+    nav ul
+    {
+        padding-top: 0px;
+    }
+    nav ul ul.no-bullets {
+        list-style-type: none; 
+        padding: 0; 
+        margin: 0; 
+      }
+}
+
+}
+}
